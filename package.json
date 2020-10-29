@@ -4,7 +4,6 @@
 	"description": "Uses MathJax to convert a MathML XML to SVG",
 	"_main": "index.js",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"keywords": ["svg", "mathml", "xml"],
 	"dependencies": {

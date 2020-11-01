@@ -1,21 +1,22 @@
 {
 	"name": "svgofmml",
-	"version": "1.0.0",
+	"version": "1.0.3",
 	"description": "Uses MathJax to convert a MathML XML to SVG",
 	"_main": "index.js",
-	"scripts": {
-	},
-	"keywords": ["svg", "mathml", "xml"],
+	"scripts": {},
+	"keywords": [
+		"svg",
+		"mathml",
+		"xml"
+	],
 	"dependencies": {
 		"mathjax-node-sre": "*",
 		"jsdom": "*",
 		"yargs": ">=11.*"
 	},
-
 	"bin": {
 		"svgofmml": "svgofmml.js"
 	},
-
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/biojet1/svgofmml.git"
